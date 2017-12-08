@@ -1,0 +1,33 @@
+C:\Users\Owner\Source\Repos\CareerCloud.UnitTests.Assignment5\CareerCloud.UnitTests.Assignment5\obj\Debug\CareerCloud.UnitTests.Assignment5.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\CareerCloud.UnitTests.Assignment5.dll.config
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\CareerCloud.UnitTests.Assignment5.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\CareerCloud.UnitTests.Assignment5.pdb
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Faker.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\obj\Debug\CareerCloud.UnitTests.Assignment5.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\obj\Debug\CareerCloud.UnitTests.Assignment5.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment5\obj\Debug\CareerCloud.UnitTests.Assignment5.pdb
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\CareerCloud.UnitTests.Assignment5.dll.config
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\CareerCloud.UnitTests.Assignment5.dll
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\CareerCloud.UnitTests.Assignment5.pdb
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Faker.dll
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\obj\Debug\CareerCloud.UnitTests.Assignment5.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\obj\Debug\CareerCloud.UnitTests.Assignment5.dll
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.UnitTests.Assignment5\obj\Debug\CareerCloud.UnitTests.Assignment5.pdb

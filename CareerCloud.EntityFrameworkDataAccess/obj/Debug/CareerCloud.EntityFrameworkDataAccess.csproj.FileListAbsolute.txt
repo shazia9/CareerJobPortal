@@ -1,0 +1,28 @@
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.EntityFrameworkDataAccess.dll.config
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.EntityFrameworkDataAccess.dll.config
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\Owner\Desktop\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.pdb

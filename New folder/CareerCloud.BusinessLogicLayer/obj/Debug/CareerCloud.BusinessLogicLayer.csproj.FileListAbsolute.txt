@@ -1,0 +1,27 @@
+C:\Users\Owner\documents\visual studio 2017\Projects\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.BusinessLogicLayer.dll
+C:\Users\Owner\documents\visual studio 2017\Projects\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\Owner\documents\visual studio 2017\Projects\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\Owner\documents\visual studio 2017\Projects\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\Owner\documents\visual studio 2017\Projects\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\Owner\documents\visual studio 2017\Projects\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\Owner\documents\visual studio 2017\Projects\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2017\Projects\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.dll
+C:\Users\Owner\documents\visual studio 2017\Projects\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.BusinessLogicLayer.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.dll
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\CareerCloud\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\Owner\Desktop\CareerCloud\New folder\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.BusinessLogicLayer.dll
+C:\Users\Owner\Desktop\CareerCloud\New folder\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\Owner\Desktop\CareerCloud\New folder\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\Owner\Desktop\CareerCloud\New folder\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\Owner\Desktop\CareerCloud\New folder\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\Owner\Desktop\CareerCloud\New folder\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\Owner\Desktop\CareerCloud\New folder\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\CareerCloud\New folder\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.dll
+C:\Users\Owner\Desktop\CareerCloud\New folder\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.pdb
